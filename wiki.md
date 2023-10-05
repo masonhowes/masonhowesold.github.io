@@ -36,7 +36,6 @@ Recreational outdoor bouldering offers a **distinct and immersive experience** c
 ## See also
 - [Seattle Bouldering Project Official Website](https://seattleboulderingproject.com/)
 - [Official Bouldering Wikipedia](https://en.wikipedia.org/wiki/Bouldering)
-- [Resource 3](url)
 
 ## References
 1. Wikipedia
